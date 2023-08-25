@@ -8,7 +8,7 @@
   I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.</br>
   </h2>
   <div align="center">
-    <h3>Technologies</h3>
+    <h1>Technologies</h1></br>
   <p>
      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" height=50px width=50px/></a>
      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" height=50px width=50px/></a>
@@ -21,3 +21,9 @@
      <a href="https://code.visualstudio.com/docs"><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" height=50px width=50px/></a>
   </p>
   </div>
+<div align="center"></br>
+  <h2>&#x1f4c8; My GitHub Stats</h2></br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakAdamski&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
