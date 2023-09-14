@@ -3,7 +3,7 @@
 <h1 align="center"> 👋  Hello there  </h1>
   <h2 align ="center">Who am I ?</br></br>
     
- <p> Full-Stack Engineer who loves to work with JavaScript technologies. </br></p>
+ <p> Full-Stack Developer who loves to work with JavaScript technologies. </br></p>
   <p>Right now my mind is focused on learning everything that is related to Web Development. </br></p>
   I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.</br>
   </h2>
