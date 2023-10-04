@@ -19,7 +19,8 @@
      <a href="https://docs.github.com/en/get-started/quickstart/hello-world"><img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" color="white" height=50px width=50px/></a>
      <a href="https://developer.mozilla.org/en-US/docs/Glossary/Node.js"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" height=50px width=50px/></a>
      <a href="https://code.visualstudio.com/docs"><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" height=50px width=50px/></a>
-    <a href="https://code.visualstudio.com/docs"><img src="https://cdn.worldvectorlogo.com/logos/express-109.svg height=50px width=50px/></a>
+    <a href="https://code.visualstudio.com/docs"><img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" height=50px width=100px/></a>
+    
     
   </p>
   </div>
