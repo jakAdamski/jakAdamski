@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> 👋  Hello there  </h1>
+<h1 align="center" color="black"> 👋  Hello there  </h1>
   <h2 align ="center">Who am I ?</br></br>
     
  <p> Full-Stack Developer who loves to work with JavaScript technologies. </br></p>
