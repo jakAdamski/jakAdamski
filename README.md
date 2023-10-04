@@ -10,16 +10,16 @@
   <div align="center">
     <h1>Technologies</h1></br>
   <p>
-     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" height=50px width=50px/></a>
-     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" height=50px width=50px/></a>
-     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" height=50px width=50px/></a>
-     <a href="https://api.jquery.com/"><img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" height=50px width=50px/></a>
-     <a href="https://getbootstrap.com/"><img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" height=50px width=50px/></a>
-     <a href="https://developer.mozilla.org/en-US/docs/Glossary/Git"><img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" height=50px width=50px/></a>
-     <a href="https://docs.github.com/en/get-started/quickstart/hello-world"><img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" color="white" height=50px width=50px/></a>
-     <a href="https://developer.mozilla.org/en-US/docs/Glossary/Node.js"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" height=50px width=50px/></a>
-     <a href="https://code.visualstudio.com/docs"><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" height=50px width=50px/></a>
-    <a href="https://code.visualstudio.com/docs"><img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" height=50px width=100px/></a>
+     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" height=50px width=50px/></a>&nbsp;
+     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" height=50px width=50px/></a>&nbsp;
+     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" height=50px width=50px/></a>&nbsp;
+     <a href="https://api.jquery.com/"><img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" height=50px width=50px/></a>&nbsp;
+     <a href="https://getbootstrap.com/"><img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" height=50px width=50px/></a>&nbsp;
+     <a href="https://developer.mozilla.org/en-US/docs/Glossary/Git"><img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" height=50px width=50px/></a>&nbsp;
+     <a href="https://docs.github.com/en/get-started/quickstart/hello-world"><img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" color="white" height=50px width=50px</a>&nbsp;
+     <a href="https://developer.mozilla.org/en-US/docs/Glossary/Node.js"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" height=50px width=50px/></a>&nbsp;
+     <a href="https://code.visualstudio.com/docs"><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" height=50px width=50px/></a>&nbsp;
+    <a href="https://code.visualstudio.com/docs"><img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" height=50px width=100px/></a>&nbsp;
     
     
   </p>
